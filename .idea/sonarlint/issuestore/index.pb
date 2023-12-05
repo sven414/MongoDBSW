@@ -7,3 +7,6 @@ k
 ;src/main/java/org/campusmolndal/jinh23/sveeri70/Animal.java,d/c/dcc13827c4a4bf3829d0a2e9cb6e4010d52d0484
 q
 Asrc/main/java/org/campusmolndal/jinh23/sveeri70/AnimalFacade.java,3/e/3e30221755ad9bb3b1e64ac5e7b48304105ebfb6
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
